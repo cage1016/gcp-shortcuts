@@ -133,6 +133,10 @@ h6 {
         float: left;
         margin-top: 15px;
     }
+
+    .container img {
+        width: 100%;
+    }
 }
 
 @media(max-width:767px) {
@@ -150,6 +154,10 @@ h6 {
 
     ul.contact-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    .container img {
+        width: 100%;
     }
 }
 
@@ -188,15 +196,15 @@ p.copyright {
     }
 
     .container {
-       width: 80%;
+        width: 80%;
+    }
+
+    .intro-message {
+        text-align: center;
     }
 
     .container img {
         width: 100%;
-    }
-
-   .intro-message {
-        text-align: center;
     }
 }
 

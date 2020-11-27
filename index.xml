@@ -1,39 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>GCP Shortcuts</title>
-    <link>http://kaichu.io/gcp-shortcuts/</link>
-    <description>Recent content on GCP Shortcuts</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://kaichu.io/gcp-shortcuts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Installation</title>
-      <link>http://kaichu.io/gcp-shortcuts/post/installation/</link>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaichu.io/gcp-shortcuts/post/installation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whats included</title>
-      <link>http://kaichu.io/gcp-shortcuts/post/whats-included/</link>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaichu.io/gcp-shortcuts/post/whats-included/</guid>
-      <description>GCP Shortcuts consists the following
- plaintext-search GCP console menu search p:project-search,plaintext-search project search,GCP console menu search set:default-project Set default gcloud project reset Reset default gcloud project login Login Google Account logout Logout Google Account sync Sync gcloud projects  </description>
-    </item>
-    
-    <item>
-      <title>Get help</title>
-      <link>http://kaichu.io/gcp-shortcuts/post/get-help/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaichu.io/gcp-shortcuts/post/get-help/</guid>
-      <description> Ping the author on twitter @CageChung Submit an issue on github  </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GCP Shortcuts</title><link>http://kaichu.io/gcp-shortcuts/</link><description>Recent content on GCP Shortcuts</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://kaichu.io/gcp-shortcuts/index.xml" rel="self" type="application/rss+xml"/><item><title>Get help</title><link>http://kaichu.io/gcp-shortcuts/post/get-help/</link><pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate><guid>http://kaichu.io/gcp-shortcuts/post/get-help/</guid><description> Ping the author on twitter @CageChung Submit an issue on github</description></item><item><title>Imprint</title><link>http://kaichu.io/gcp-shortcuts/imprint-gdpr/imprint/</link><pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate><guid>http://kaichu.io/gcp-shortcuts/imprint-gdpr/imprint/</guid><description>Privacy Policy
+KAI CHU CHUNG built the GCP Shortcuts app as an Open Source app. This SERVICE is provided by KAI CHU CHUNG at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description></item><item><title>Installation</title><link>http://kaichu.io/gcp-shortcuts/post/installation/</link><pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate><guid>http://kaichu.io/gcp-shortcuts/post/installation/</guid><description/></item><item><title>Whats included</title><link>http://kaichu.io/gcp-shortcuts/post/whats-included/</link><pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate><guid>http://kaichu.io/gcp-shortcuts/post/whats-included/</guid><description>GCP Shortcuts consists the following
+plaintext-search GCP console menu search p:project-search,plaintext-search project search,GCP console menu search set:default-project Set default gcloud project reset Reset default gcloud project login Login Google Account logout Logout Google Account sync Sync gcloud projects</description></item></channel></rss>
