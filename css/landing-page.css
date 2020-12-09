@@ -133,10 +133,6 @@ h6 {
         float: left;
         margin-top: 15px;
     }
-
-    .container img {
-        width: 100%;
-    }
 }
 
 @media(max-width:767px) {
@@ -154,10 +150,6 @@ h6 {
 
     ul.contact-social-buttons > li:last-child {
         margin-bottom: 0;
-    }
-
-    .container img {
-        width: 100%;
     }
 }
 
@@ -202,10 +194,6 @@ p.copyright {
     .intro-message {
         text-align: center;
     }
-
-    .container img {
-        width: 100%;
-    }
 }
 
 .intro-image {
@@ -218,8 +206,4 @@ p.copyright {
 
 .github-btn {
     margin-top: 10px;
-}
-
-.container img {
-    width: 100%;
 }
